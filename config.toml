@@ -1,0 +1,6 @@
+[folders]
+names = ["model", "controller", "service"]
+
+[files]
+paths = ["model/model.go", "controller/controller.go", "service/service.go"]
+
